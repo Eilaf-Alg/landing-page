@@ -4,10 +4,15 @@
 
 ## Preview
 
+[![Landing Page Preview](./img/testimonials-2a.jpg)](https://khairul1300.github.io/landing-page/)
+
+<!--
 [![Landing Page Preview](https://startbootstrap.com/assets/img/screenshots/themes/landing-page.png)](https://blackrockdigital.github.io/startbootstrap-landing-page/)
+-->
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-landing-page/)**
+**[View Live Preview](https://khairul1300.github.io/landing-page/)**
 
+<!--
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-landing-page/master/LICENSE)
@@ -66,3 +71,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
+-->
